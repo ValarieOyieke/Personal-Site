@@ -1,3 +1,3 @@
-A personal website created with the help of Scrimba
+A personal website created with the help of Per Borgen of @scrimba.com
 
 Happy Coding!
